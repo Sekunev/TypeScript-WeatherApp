@@ -1,6 +1,6 @@
 # TypeScript Weather App
 
-### Check The Live Website ➡️ [Live Website](https://sekunev-stock-app.netlify.app/)
+### Check The Live Website ➡️ [Live Website](https://sekunev-typescript-weatherapp.netlify.app/)
 
 ## Description
 
@@ -8,7 +8,7 @@ Project aims to create a Weather App.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Stock-App/blob/main/src/assets/AnimationProject.gif)
+![image](https://github.com/Sekunev/TypeScript-WeatherApp/blob/main/src/helpers/AnimationProject.gif)
 
 ## Project Skeleton
 

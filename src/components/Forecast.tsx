@@ -21,7 +21,7 @@ const Degree = ({ temp }: { temp: number }): JSX.Element => (
 
 const Forecast = ({ data, setForecast, backSearchPage }: Props) => {
   const today = data.list[0];
-  console.log(data);
+
   return (
     <div className="f_Container">
       <div className="w-[300px]">
